@@ -2,9 +2,6 @@
 **An agentic 10-minute daily skill coach that adapts your 4-week plan based on what you actually do.**
 Built for hackathons where *functionality + real-world relevance + LLM/agent design + evaluation/observability* matter.
 
----
-
-## GitHub Description (short)
 TenMinute Coach is an AI agent that turns any learning goal into a 4-week micro-plan, delivers a daily 10-minute session, checks understanding (quiz/reflection), and adapts the plan based on performance and missed days—fully instrumented with Opik traces, evals, and dashboards.
 
 ---
